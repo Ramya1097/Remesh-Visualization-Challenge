@@ -15,7 +15,7 @@ Thanks for giving me a chance to solve this visualization challenge. I will be g
 7. After running the file in the IDE, you will be given an end point with port 8000. Click on it to open the Dash application and an interactive visualization. 
 
 **After running the .py file**
-1. Once the Dash application opens on your browser, enter a starting and ending range by which the graph will the updated. To get a high level view, endter start as 0 and end as 300. 
+1. Once the Dash application opens on your browser, enter a starting and ending range by which the graph will the updated. To get a high level view, endter start as 0 and end as 300. I used 300 as maximum because the length of the longest tweet is 288. This number can vary but I have considered this variable based on the data I have.
 2. The xaxis of the graph shows the length of the tweets and y axis shows the corresponding number of likes and hashtags respectively in the subplots. 
 
 **Insights drawn from the visualizations:**
