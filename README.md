@@ -31,7 +31,7 @@ I tried my best to come up with an effective solution that looks good and perfor
 I am confident that I have satisfied the given application and technical requirements and supported my thoughts with proof led and proven insights. I am also sure that I would get constructive feedback from you if you decide to move ahead with me or otherwise. 
 
 
-Have a great day and rest of the week
+Have a great day and rest of the week.
 
 Thanks,
 Ramya.
